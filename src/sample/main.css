@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: teal;
+}
+.label {
+    -fx-font-size: 20px;
+    -fx-text-fill: blue;
+}
+
+.button {
+    -fx-background-color: orange;
+}
